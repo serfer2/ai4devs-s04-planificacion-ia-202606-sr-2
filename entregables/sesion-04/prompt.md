@@ -14,7 +14,7 @@ Las stories deben tener el siguiente formato
 ```
 ## Story: 
 **Como** [rol], **quiero** [acción], **para** [beneficio].
-**Como** usuario **quiero** hscer login usando mi email y contraseña **para** hacer uso de FlowSync
+**Como** usuario **quiero** hacer login usando mi email y contraseña **para** hacer uso de FlowSync
 
 
 ## AC en formato (Given/When/Then): 
